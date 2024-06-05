@@ -4,6 +4,8 @@
 
 The objective of the Risk Management Plan is to identify, assess, and mitigate risks that Health Network Inc., a fictional company, might face, ensuring the organization's data security, operational continuity, and compliance with legal standards such as HIPAA. This plan aims to protect critical business functions and resources from various threats, minimizing potential disruptions and financial impacts.
 
+[Files Included in Repository]
+
 ### Skills Learned
 
 - Risk Assessment and Analysis: Learning how to identify potential threats and assess their impact on business operations.
